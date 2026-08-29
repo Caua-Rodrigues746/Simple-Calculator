@@ -10,7 +10,7 @@ My first Python calculator project.
 - Division
 - Basic input error handling
 
-## What i learned
+## What i Learned
 
 - Variables
 - input()
