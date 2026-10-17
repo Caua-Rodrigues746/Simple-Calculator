@@ -33,7 +33,7 @@ Version 2 expands on the original Simple Calculator by allowing the user to perf
 - Multiplication
 - Division
 - Basic input error handling
-- Allows the user add any number of numbers to an operation
+- Allows the user to add any number of numbers to an operation
 
 ### What I Learned
 
@@ -47,3 +47,30 @@ Version 2 expands on the original Simple Calculator by allowing the user to perf
 - List indexing
 - String methods
 - List slicing 
+
+---
+
+## Version 3
+
+Version 3 of the Simple Calculator improves code organization and uses functions.
+
+### Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Basic input error handling
+- Allows the user to add any number of numbers to an operation
+- Uses functions to perform mathematical operations
+- Separates reusable functions into a separate Python module
+- Uses Boolean return values to control whether the calculator continues
+
+### What I Learned
+
+- Functions
+- Code organization
+- Boolean values
+- Imports and modules
+- Return statements
+- While loops
